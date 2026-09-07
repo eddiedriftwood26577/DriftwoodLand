@@ -1,0 +1,6 @@
+{
+  "name": "Audio Override Universel",
+  "description": "Utilitaire système audio bas-niveau pour forcer et verrouiller les formats de sortie (Mono, Stéréo 2.0 Downmix, Surround, Cinéma 5.1/7.1 passthrough) sur Android et TV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
